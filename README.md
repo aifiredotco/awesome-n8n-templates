@@ -8,9 +8,15 @@ All automation templates in this repository were found online and are uploaded h
 
 ---
 
-☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
-
-<a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<h3>Master AI in 5 Minutes a Day.</h3>
+<p>Get the latest AI news, tools, powerful prompts, and step-by-step tutorials (with video!) in a daily email designed to help you launch, grow, and monetize your ventures. Join 58,000+ readers discovering AI-powered opportunities to save time and earn more.</p>
+<p>
+  <strong>
+    <a href="https://www.aifire.co/subscribe" target="_blank" rel="noopener noreferrer">
+      Join & Instantly Get "101+ Ultimate AI Cheatsheets"
+    </a>
+  </strong>
+</p>
 
 --- 
 
